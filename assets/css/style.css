@@ -1,0 +1,89 @@
+p {
+    
+    font-size: 20px;
+    text-align: left;
+    color: rgb(95, 0, 139);
+}
+
+body {
+
+    color: rgb(88, 17, 219);
+    background-color: rgb(184, 252, 129);
+    height: 300px;
+    width: 400px;
+}
+
+.container {
+background-color: darksalmon;
+color: darkblue;
+}
+
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+.banner {
+    color: purple;
+    background-color: aqua
+
+}
+
+.randomNumber {
+    height:100px;
+    width:250px;
+    background-color:rgb(3, 206, 3);
+    color: white;
+    padding-top: 20px;
+    font-size: 75px;
+    text-align: center;
+
+}
+
+.score {
+    height: 135px;
+    width:100px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 300px;
+    top: 455px;
+}
+
+
+.pic2 { 
+    margin-left: 100px; 
+    margin-top: -65px;
+
+}
+
+.pic3 {
+    margin-left: 200px;
+    margin-top: -65px;
+}
+
+.pic4 {
+    margin-left: 300px;
+    margin-top: -65px;
+}
+
+.rockClicks {
+background-color: aquamarine;
+height: 150px;
+width: 260px;
+font-size: 30px;
+}
+
+.clickBanner {
+    background-color: aquamarine;
+    width:260px;
+    text-align: center;
+    height: 75px;
+}
+
+.bttn {
+    width: 75px;
+    height: 55px;
+    background-color: red;
+    margin: 100px, 50px, 50px, 50px;
+}
